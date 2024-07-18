@@ -2,7 +2,7 @@ body {
   background-image: url(/starter-code/assets/technology/background-technology-desktop.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  height: 100%;
+  height: auto;
   background-size: cover;
   margin: 0;
   padding: 0;
